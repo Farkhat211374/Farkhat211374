@@ -1,7 +1,3 @@
-# 💫 About Me:
-😎I am currently working on web and desktop applications<br>😁I am looking to collaborate on any interesting projects<br>🤗I am looking for help with programming<br>🤓I am currently learning Java<br>📝Ask me about anything you want
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@amthewatch) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Farkhatsagat) 
 
